@@ -1,8 +1,19 @@
-Test project for Time Is Money company.
+# training-tim
 
-To run the project folloowing steps should be done:
-1. after unpacking or clonning repository, inside project folder run the command 'npm install'
-2. then run the command 'gulp build'
-3. after that open './dist/index.html' end
+## Project setup
+```
+yarn install
+```
 
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
